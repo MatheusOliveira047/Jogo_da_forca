@@ -4,8 +4,8 @@ Descubra as palavras secretas nesta aplicação React
 
 ## Tecnologias Ultilizadas
 
-*React
-*CSS
+* React
+* CSS
 
 ### Descrição do Projeto
 
